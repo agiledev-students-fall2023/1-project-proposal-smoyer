@@ -1,2 +1,10 @@
-# Project Proposal
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+# Project Proposal - Social Fitness App
+Proposal written by Michael Smoyer
+## Description  
+My proposal is a fitness app which allows users to track and share their workouts, with a focus on positivity and high-quality, science-based information. The problem I see in the modern fitness industry is that influencers and creators spread misinformation, both intentionally and unintentionally, to massive audiences and keep people from achieving their goals in the gym. From constant new trends to the long-lasting gym myths, it is hard for anyone to know what to do in order to make progress towards their specific goals. Additionaly, many people who get really into the gym develop an unhealthy relationship with their body image. I want to create a platform which promotes self-acceptance and balance in life while providing no-BS gym advice. 
+## Intended Users
+The users for this app will be anyone who works out and wants to track their progress. Me and my friends would be the initial users and hope to develop a network of cool fitness nerds.
+## What it does
+There will be a simple interface for tracking workouts, which will then be posted if a user wants to share their progress. Other users can save the workout and popular workouts will rise to the top using an upvote/downvote system. Users can share photos or videos to get advice on form, and all posted content will be checked periodically for bad information. The app will also include an area for reccomendations of articles and videos across a variety of subjects to help gymgoers on their journey. In theory this would be a huge, searchable FAQ-style section where any simple question has a high quality answer. Users will increase in rank over time as they share their own journey and provide help to others. The main forum for workouts can be filtered by different types of workouts and private groups can also be created. 
+## Scope
+I beleive this proposal will be doable in a semester but not too easy because it can be scaled to provide more and more features. I do not want the app to be complicated, but I think a lot of the streamlining and simplicity I am imagining on the users end will mean a lot of work and enhancements for the developers to create this experience. However, I have no experience as a developer on a team like this so I don't really know how long this would take to be honest.
